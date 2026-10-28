@@ -146,6 +146,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinkedList.cpp" />
+    <ClCompile Include="Main1.cpp" />
+    <ClCompile Include="Main2.cpp" />
     <ClCompile Include="Part1Tester_local.cpp" />
     <ClCompile Include="Part2Tester_local.cpp" />
     <ClCompile Include="Stack.cpp" />

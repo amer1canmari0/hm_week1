@@ -44,5 +44,11 @@
     <ClCompile Include="Part2Tester_local.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Main1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,12 +1,14 @@
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 
-typedef struct Node {
+typedef struct Node 
+{
     unsigned int data;
     struct Node* next;
 } Node;
 
-typedef struct LinkedList {
+typedef struct LinkedList 
+{
     Node* head;
 } LinkedList;
 
